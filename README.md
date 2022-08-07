@@ -1,5 +1,5 @@
 # dio-desafio-github-primeiro-repositorio
-Desafio de Projetos sobre  Git/Github
+Repositorio criado para o desafio de projetos
 
 ## Links Úteis
 [Sintex Basica Markdown](https://www.markdownguide.org/basic-syntax/)
